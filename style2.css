@@ -1,0 +1,39 @@
+body {
+    background-color: white;
+    font-family: "Bebas Neue", sans-serif;
+  }
+  
+  body {
+    background-color: white;
+    font-family: "Bebas Neue", sans-serif;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f6e8e8;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(92, 92, 184);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #d8cece;
+  }
+  
+  
+  body {
+    background-color: rgb(205, 190, 190);
+    font-family: "Bebas Neue", sans-serif;
+  }
